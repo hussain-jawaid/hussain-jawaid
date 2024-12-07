@@ -6,10 +6,12 @@
 - 📚 Learning: **Data Structures, Algorithms, and Python Libraries**  
 - 📍 Based in Karachi, Pakistan
 
-### 🛠️ Skills:
-- **Programming Languages:** Python  
-- **Tools & Technologies:** Git, GitHub, Visual Studio Code  
-- **Interests:** AI, Data Science, Machine Learning  
+### 🛠️ My Skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Enthusiast-brightgreen?style=flat-square&logo=ai)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ### 📂 Projects:
 - [Library Management System](https://github.com/hussaindev/Library-Management-System)
