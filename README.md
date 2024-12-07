@@ -16,8 +16,8 @@
 - [Expense Splitter for Groups](https://github.com/hussaindev/expense-splitter-for-groups)  
 
 ### 📫 Let's Connect:
-- **Instagram:** [Your Instagram Handle](https://instagram.com/yourhandle)  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **Instagram:** [Your Instagram Handle](https://www.instagram.com/hussainjawaidpy/?next=%2F)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/hussain-j-14b3b4340/)  
 - **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle)
 
 ---
