@@ -16,9 +16,9 @@
 - [Expense Splitter for Groups](https://github.com/hussaindev/expense-splitter-for-groups)  
 
 ### 📫 Let's Connect:
-- **Instagram:** [Your Instagram Handle](https://www.instagram.com/hussainjawaidpy/?next=%2F)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/hussain-j-14b3b4340/)  
-- **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle)
+- **Instagram:** [Hussain Jawaid](https://www.instagram.com/hussainjawaidpy/)  
+- **LinkedIn:** [Hussain Jawaid](https://www.linkedin.com/in/hussain-j-14b3b4340/)  
+- **Twitter:** [Hussain Jawaid](https://twitter.com/yourhandle)
 
 ---
 ✨ *"The journey of a thousand miles begins with a single step."*
