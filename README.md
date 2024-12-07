@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Hussain Jawaid  
 
-<!--
-**hussaindev/hussaindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Developer | Aspiring AI Enthusiast  
+- 🌟 Passionate about coding and solving real-world problems  
+- 🛠️ Currently working on: **Student Management System**  
+- 📚 Learning: **Data Structures, Algorithms, and Python Libraries**  
+- 📍 Based in Karachi, Pakistan
 
-Here are some ideas to get you started:
+### 🛠️ Skills:
+- **Programming Languages:** Python  
+- **Tools & Technologies:** Git, GitHub, Visual Studio Code  
+- **Interests:** AI, Data Science, Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects:
+- [Library Management System](https://github.com/hussaindev/Library-Management-System)
+- [Expense Splitter for Groups](https://github.com/hussaindev/expense-splitter-for-groups)  
+
+### 📫 Let's Connect:
+- **Instagram:** [Your Instagram Handle](https://instagram.com/yourhandle)  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle)
+
+---
+✨ *"The journey of a thousand miles begins with a single step."*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
