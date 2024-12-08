@@ -1,7 +1,7 @@
 <h1 align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=1000&lines=Hi+There+%F0%9F%91%8B;I'm+Hussain+Jawaid" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=1000&lines=Hi+There+%F0%9F%91%8B;I'm+Hussain+Jawaid;Python+Developer" alt="Typing SVG" /></a>
 </h1>
-<h6 align="center">As a passionate Python developer, I am dedicated to solving real-world problems through clean and efficient code. With expertise in Python and a growing knowledge of Data Structures, Algorithms, and Python Libraries, I aim to build impactful and user-centric solutions. My journey is fueled by a keen interest in Artificial Intelligence, where I strive to contribute to innovative projects that make a difference. Committed to lifelong learning and collaboration, I am always ready to tackle challenges and enhance my skills.</h6>
+<h6 align="center">As a passionate <b>Python Developer</b>, I am dedicated to solving real-world problems through clean and efficient code. With expertise in Python and a growing knowledge of Data Structures, Algorithms, and Python Libraries, I aim to build impactful and user-centric solutions. My journey is fueled by a keen interest in Artificial Intelligence, where I strive to contribute to innovative projects that make a difference. Committed to lifelong learning and collaboration, I am always ready to tackle challenges and enhance my skills.</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-jawaid&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-jawaid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussain-jawaid" alt="hussain-jawaid" /></a> </p>
