@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" width="400"  src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" alt="coding">
-
 - 🔭 I’m currently working on a <b>Student Management System</b>
 
 - 🌱 I’m currently learning Python, its libraries, and frameworks
@@ -59,16 +57,6 @@
     <img src="path/to/git-icon.png" alt="Git" width="40" height="40"/> 
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain-jawaid&show_icons=true&locale=en&layout=compact" alt="Hussain Jawaid" /></p>
 
