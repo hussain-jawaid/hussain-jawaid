@@ -6,26 +6,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussain-jawaid" alt="hussain-jawaid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" width="400"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPpHTr1h44h94SnkbqaFZbW3Hv5aHMJqGqQ&s  " alt="coding">
+
 
 - 🔭 I’m currently working on a <b>Student Management System</b>
 
-- 🌱 I’m currently learning Python, its libraries, and frameworks
+- 🌱 I’m currently learning <b>Python, its libraries, and frameworks</b>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/hussain-jawaid" target="_blank"><b>GitHub Portfolio</b></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/hussain-jawaid" target="_blank"><b>GitHub Repositories
+</b></a>
 
 - 💬 Ask me about <b>Python, Data Structures, and Problem-Solving</b>
 
-- 📫 How to reach me: hussainjawaidpy@gmail.com
+- 📫 How to reach me: <b>hussainjawaidpy@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.instagram.com/hussainjawaidpy/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Hussain Jawaid Instagram" height="28" width="28" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Hussain Jawaid Instagram" height="28" width="28" />
   </a>
   &nbsp;&nbsp; <!-- This will add space between the icons -->
   <a href="https://www.linkedin.com/in/hussain-j-14b3b4340/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="Hussain Jawaid LinkedIn" height="28" width="28" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Hussain Jawaid LinkedIn" height="28" width="28" />
   </a>
   &nbsp;&nbsp; <!-- This will add space between the icons -->
   <a href="https://twitter.com/Hussain_Jawaid" target="blank">
@@ -36,25 +38,25 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="path/to/python-icon.png" alt="Python" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkndl410yjPON66PwNfaRxz6w87A3yvA7cw&s" alt="Python" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="path/to/django-icon.png" alt="Django" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/django-icon-803x1024-rzi03va0.png" alt="Django" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="path/to/html-icon.png" alt="HTML" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="HTML" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="path/to/css-icon.png" alt="CSS" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQG2bHNdIs2XhZe2NaFKZKKrhKo3rSoiK87A&s" alt="CSS" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="path/to/vscode-icon.png" alt="VS Code" width="40" height="40"/> 
+    <img src="https://freebsdfoundation.org/wp-content/uploads/2024/05/vscode-logo.png" alt="VS Code" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="path/to/github-icon.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="path/to/git-icon.png" alt="Git" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git" width="40" height="40"/> 
   </a>
 </p>
 
