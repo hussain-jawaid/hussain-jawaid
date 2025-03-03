@@ -35,30 +35,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkndl410yjPON66PwNfaRxz6w87A3yvA7cw&s" alt="Python" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/django-icon-803x1024-rzi03va0.png" alt="Django" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png?f=webp&w=256" alt="HTML" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQG2bHNdIs2XhZe2NaFKZKKrhKo3rSoiK87A&s" alt="CSS" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://freebsdfoundation.org/wp-content/uploads/2024/05/vscode-logo.png" alt="VS Code" width="40" height="40"/> 
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git" width="40" height="40"/> 
-  </a>
-</p>
+# 💻Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,vscode,github)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussain-jawaid&show_icons=true&locale=en&layout=compact" alt="Hussain Jawaid" /></p>
 
