@@ -11,7 +11,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hussain-jawaid?label=Stars">
 </p>
 
-- 👨‍💻 I'm currently exploring Python **data-related** frameworks! 🐍📊
+- 👨‍💻 I'm currently exploring Python **data-related** frameworks! 📊
 - 🚀 Additionally, I'm immersing myself in **AI & Data Science**. ⚙️
 - 📚 I’m more interested in **Backend** technologies. 📤
 - 💪🏼 Future Goals:
