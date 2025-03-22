@@ -12,7 +12,7 @@
 </p>
 
 - 👨‍💻 I'm currently exploring Python **data-related** frameworks! 🐍📊
-- 🚀 Additionally, I'm immersing myself in the art of **System Design**. ⚙️
+- 🚀 Additionally, I'm immersing myself in **AI & Data Science**. ⚙️
 - 📚 I’m more interested in **Backend** technologies. 📤
 - 💪🏼 Future Goals:
     - I dedicate myself to sharpening my **problem-solving** skills to become a proficient developer. 🌌
