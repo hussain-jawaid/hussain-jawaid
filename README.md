@@ -17,7 +17,7 @@
 - 💪🏼 Future Goals:
     - I dedicate myself to sharpening my **problem-solving** skills to become a proficient developer. 🌌
     - Learn Python data-related frameworks as a foundation for **AI and Data Science**. ⏱️
-- ⚡ Fun fact: My code mistakes are my **biggest** mentors! 🚀 #️⃣
+- ⚡ Fun fact: My code mistakes are my **biggest** mentors! 🚀
 
 <p>
 </p>
