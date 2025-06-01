@@ -17,7 +17,7 @@
 - 💪🏼 Future Goals:
     - I dedicate myself to sharpening my **problem-solving** skills to become a proficient developer. 🌌
     - Learn Python data-related frameworks as a foundation for **AI and Data Science**. ⏱️
-- ⚡ Fun fact: My code mistakes are my **biggest** mentors! 🚀
+- ⚡ Fun fact: I'm Mr. Nobody 🤷‍♂️
 
 <p>
 </p>
@@ -27,15 +27,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,vscode,css,bootstrap,github,git,fastapi,pycharm&theme=dark)](https://skillicons.dev)
 
 ## ⚙️GitHub Analytics
-
-<div align="center">
-
-[![Hussain's GitHub | Stats](https://stats.quine.sh/hussain-jawaid/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hussain-jawaid)
-
-[![Hussain's GitHub | Languages Over Time](https://stats.quine.sh/hussain-jawaid/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hussain-jawaid)
-
-</div>
-
 
 <p align="center">  
 <a href="https://github.com/hussain-jawaid">
