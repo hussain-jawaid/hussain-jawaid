@@ -1,4 +1,4 @@
-![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
+![github cover](images/cover.png)
 <!-- 
 
 [![An image of @syed007hassan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syed007hassan)](https://holopin.io/@syed007hassan) -->
@@ -28,13 +28,10 @@
 
 ## ⚙️GitHub Analytics
 
-<p align="center">  
-<a href="https://github.com/hussain-jawaid">
+<div style="display: flex; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hussain-jawaid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hussain-jawaid&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
+</div>
 
 ## ⚡Recent GitHub Activity
  
