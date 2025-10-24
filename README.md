@@ -1,4 +1,4 @@
-![github cover](images/cover.png)
+![github cover](images/banner.png)
 <!-- 
 
 [![An image of @syed007hassan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/syed007hassan)](https://holopin.io/@syed007hassan) -->
