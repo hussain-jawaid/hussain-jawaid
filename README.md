@@ -25,16 +25,3 @@
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 [![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,tailwind,js,react,vite,npm,vscode,github,git,fastapi,pycharm&theme=dark)](https://skillicons.dev)
-
-## ⚙️GitHub Analytics
-
-<div style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hussain-jawaid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hussain-jawaid&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-## ⚡Recent GitHub Activity
- 
-  [![Hussain's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hussain-jawaid&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
