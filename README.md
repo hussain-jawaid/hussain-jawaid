@@ -1,4 +1,4 @@
-![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
+![github cover](https://github.com/hussain-jawaid/hussain-jawaid/blob/main/images/banner.png)
 
 
 <p align="center"> 
